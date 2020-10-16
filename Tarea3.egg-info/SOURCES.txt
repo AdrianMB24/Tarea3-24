@@ -1,0 +1,9 @@
+README.md
+setup.py
+Metodos/MT3.py
+Metodos/__init__.py
+Tarea3.egg-info/PKG-INFO
+Tarea3.egg-info/SOURCES.txt
+Tarea3.egg-info/dependency_links.txt
+Tarea3.egg-info/requires.txt
+Tarea3.egg-info/top_level.txt
