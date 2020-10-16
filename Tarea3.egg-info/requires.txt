@@ -1,8 +1,0 @@
-pillow
-opencv
-tabulate
-playsound
-PIL
-sys
-cv2
-numpy
