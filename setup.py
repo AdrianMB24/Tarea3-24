@@ -24,7 +24,7 @@ setup(
     author='Carlos_Joseph_Adrian_Emmanuel', 
     packages=find_packages(where='Metodos'),
     python_requires='>=3',
-    install_requires=['pillow', 'tabulate', 'playsound', 'sys', 'cv2', 'numpy'],
+    install_requires=['pillow', 'tabulate', 'playsound', 'cv2', 'numpy'],
     # To provide executable scripts, use entry points in preference to the
     # "scripts" keyword. Entry points provide cross-platform support and allow
     # `pip` to create the appropriate form of executable for the target
